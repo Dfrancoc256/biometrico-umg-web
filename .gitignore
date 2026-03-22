@@ -1,0 +1,13 @@
+target/
+*.class
+*.jar
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+fotos_personas/
+carnets/
+reportes/
+logs/
+.DS_Store
